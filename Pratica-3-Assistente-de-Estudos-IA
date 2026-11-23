@@ -1,6 +1,0 @@
-<script>start("c:\\Users\\Aluno\\Downloads\\Praticas_SENAC\\Pratica-3-Assistente-de-Estudos-IA\\");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("index.html","index.html",0,902,"902 B",1795091307,"19/11/2026, 09:28:27");</script>
-<script>addRow("script.js","script.js",0,5516,"5.4 kB",1795092559,"19/11/2026, 09:49:19");</script>
-<script>addRow("style.css","style.css",0,1170,"1.1 kB",1795091321,"19/11/2026, 09:28:41");</script>
-<script>addRow("supabase.sql","supabase.sql",0,709,"709 B",1795008904,"18/11/2026, 10:35:04");</script>
