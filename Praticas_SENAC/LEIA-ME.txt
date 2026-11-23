@@ -1,0 +1,15 @@
+PRÁTICAS SENAC — COMO EXECUTAR
+
+1. Extraia o ZIP.
+2. Em cada prática, abra a pasta no VS Code.
+3. Abra supabase.sql, copie o conteúdo e execute no SQL Editor do seu projeto Supabase.
+4. Em script.js, substitua a URL do projeto e COLE_AQUI_SUA_CHAVE_PUBLICA pela chave publishable/anon do Supabase.
+5. Na Prática 3, também coloque sua chave Groq em GROQ_API_KEY.
+6. Abra index.html com Live Server.
+
+IMPORTANTE:
+- As práticas usam tabelas separadas: tarefas, series e perguntas.
+- Use somente a chave pública do Supabase no navegador.
+- A chave Groq exposta no JavaScript pode ser vista por quem abrir o código. Use apenas para a atividade local, nunca publique ou envie o projeto com a chave real.
+- Ao terminar a Prática 3, revogue a chave Groq no painel da Groq, conforme a orientação da atividade.
+- As policies abertas para anon são adequadas somente ao exercício demonstrativo. Não use essas permissões em um sistema real.
